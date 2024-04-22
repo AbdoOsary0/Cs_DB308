@@ -5,55 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b5ba32-9f21-4d44-9c79-71e9aeb1e26f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/.idea/CS308Spring2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/dao/DBDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/dao/DBJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/dao/DBJob_History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/dao/DBLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/dao/DBRegion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Job_History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Region.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/dao/DBDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/dao/DBJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/dao/DBJob_History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/dao/DBLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/dao/DBRegion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Job_History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Region.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/503ae18f-f778-42f0-9349-e995d748cd7e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/503ae18f-f778-42f0-9349-e995d748cd7e.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS308Spring2022/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS308Spring2022/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS308Spring2022/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS308Spring2022/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS308Spring2022/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS308Spring2022/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/EmployeeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/EmployeeApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/java/com/sci/models/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS308Spring2022/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS308Spring2022/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/EmployeeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/EmployeeApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Department.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Job_History.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Job_History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sci/EmployeeApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sci/EmployeeApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +50,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Abdo/Downloads/ojdbc11.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Cs_DB308&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -163,6 +124,8 @@
       <workItem from="1712097512665" duration="631000" />
       <workItem from="1712098506215" duration="332000" />
       <workItem from="1712104438541" duration="630000" />
+      <workItem from="1712106580087" duration="38000" />
+      <workItem from="1713808674016" duration="1082000" />
     </task>
     <servers />
   </component>

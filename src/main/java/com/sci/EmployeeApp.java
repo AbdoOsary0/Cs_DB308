@@ -2,13 +2,8 @@ package com.sci;
 
 import com.sci.criteria.FilterQuery;
 import com.sci.criteria.Operator;
-import com.sci.dao.DBConfig;
-import com.sci.dao.DBEmployee;
-import com.sci.models.Employee;
-import com.sci.dao.DBDepartment;
-import com.sci.models.Department;
-import com.sci.dao.DBJob;
-import com.sci.models.Job;
+import com.sci.dao.*;
+import com.sci.models.*;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -67,10 +62,11 @@ public class EmployeeApp {
         DBEmployee dbEmployee = new DBEmployee();
         DBDepartment dbdepartment = new DBDepartment();
         DBJob dbjob = new DBJob();
+        DBJob_History dbJobHistory = new DBJob_History();
         List<Job> JOBList = dbjob.get();
-        for (Job j : JOBList){
-            System.out.println(j);
-        }
+//        for (Job j : JOBList){
+//            System.out.println(j);
+//        }
 
         List<FilterQuery> filterQueries = new ArrayList<>();
         filterQueries.add(new FilterQuery("jobId", "SH_CLERK", Operator.EQ));
@@ -83,11 +79,23 @@ public class EmployeeApp {
 //            System.out.println(employee);
 //        }
 
-//    List<Employee> employeeList = dbEmployee.get();
-//        List<Department> DepartmentList = dbdepartment.get();
-//        for (Department e : DepartmentList) {
-//            System.out.println(e);
+        List<Employee> employeeList = dbEmployee.get();
+        List<Job> Jobs = dbjob.get();
+//        System.out.println("the size of the list = " + employeeList.size());
+        List<Job_History> J_JobHistories = dbJobHistory.get();
+        DBLocation dbLocation = new DBLocation();
+        List<Location> locations = dbLocation.get();
+        for (Location l : locations) {
+            System.out.println(l);
+        }
+//        for (Employee l : employeeList){
+//            System.out.println(l);
 //        }
+//        System.out.println("the size of the list = " + J.size());
+        List<Department> DepartmentList = dbdepartment.get();
+        for (Department e : DepartmentList) {
+            System.out.println(e);
+        }
 
 //    System.out.println(dbEmployee.get(100));
 

@@ -27,4 +27,8 @@ public class Job implements Serializable {
     private Integer minSalary;
     @Column(name = "max_salary")
     private Integer maxSalary;
+
+//    @OneToMany(fetch = FetchType.LAZY)
+//    @JoinColumn(name = "job_id", insertable = false,updatable = false)
+//    private List<Employee> List_employees;
 }

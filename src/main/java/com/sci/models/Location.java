@@ -1,6 +1,14 @@
 package com.sci.models;
 
 import javax.persistence.*;
+import javax.persistence.FetchType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
+import javax.persistence.ManyToMany;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToOne;
+import javax.persistence.OneToMany;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -8,6 +16,7 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serial;
 import java.io.Serializable;
+import java.util.List;
 
 @Entity
 @Table(name = "locations")
@@ -31,4 +40,8 @@ public class Location implements Serializable {
     private String stateProvince;
     @Column(name = "country_id")
     private String countryId;
+
+//    @OneToMany(fetch = FetchType.LAZY)
+//    @JoinColumn(name = "location_id", insertable = false,updatable = false)
+//    private List<Department> List_Departments;
 }
