@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b5ba32-9f21-4d44-9c79-71e9aeb1e26f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/503ae18f-f778-42f0-9349-e995d748cd7e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/503ae18f-f778-42f0-9349-e995d748cd7e.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/EmployeeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/EmployeeApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Job_History.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Job_History.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sci/models/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sci/models/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sci/EmployeeApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sci/EmployeeApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,34 +35,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.EmployeeApp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Cs_DB308&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EmployeeApp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "AbdoOsary",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Cs_DB308",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;redshift&quot;,
-      &quot;oracle&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "redshift",
+      "oracle"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.sci.models" />
@@ -125,7 +117,7 @@
       <workItem from="1712098506215" duration="332000" />
       <workItem from="1712104438541" duration="630000" />
       <workItem from="1712106580087" duration="38000" />
-      <workItem from="1713808674016" duration="1082000" />
+      <workItem from="1713808674016" duration="1844000" />
     </task>
     <servers />
   </component>
